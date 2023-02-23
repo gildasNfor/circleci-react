@@ -33,6 +33,6 @@ jobs:
 
       - run: git config user.email "gildasnfor@gmail.com"
 
-      # - run: git config user.name "gildasNfor"
+      - run: git config user.name "gildasNfor"
 
       - run: yarn deploy
