@@ -9,8 +9,8 @@ jobs:
     steps:
       - checkout
       - add_ssh_keys:
-            fingerprints:
-              - "SO:ME:FIN:G:ER:PR:IN:T"
+          fingerprints:
+            - "59:ad:fd:64:71:eb:81:01:6a:d7:1a:c9:0c:19:39:af"
 
       # Download and cache dependencies
       - restore_cache:
@@ -30,5 +30,9 @@ jobs:
       - run: yarn test
 
       - run: yarn build
+
+      - run: git config user.email "gildasnfor@gmail.com"
+
+      - run: git config user.name "gildasNfor"
 
       - run: yarn deploy
