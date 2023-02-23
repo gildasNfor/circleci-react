@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.18393e78.chunk.css",
-  "main.js": "/static/js/main.880dca48.chunk.js",
-  "main.js.map": "/static/js/main.880dca48.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-  "static/js/2.948d4d77.chunk.js": "/static/js/2.948d4d77.chunk.js",
-  "static/js/2.948d4d77.chunk.js.map": "/static/js/2.948d4d77.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.f53de32530d318d9f0ce39ba77ceaa29.js": "/precache-manifest.f53de32530d318d9f0ce39ba77ceaa29.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.18393e78.chunk.css.map": "/static/css/main.18393e78.chunk.css.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  "main.css": "/circleci-react/static/css/main.18393e78.chunk.css",
+  "main.js": "/circleci-react/static/js/main.1eeed7a8.chunk.js",
+  "main.js.map": "/circleci-react/static/js/main.1eeed7a8.chunk.js.map",
+  "runtime~main.js": "/circleci-react/static/js/runtime~main.408d7f34.js",
+  "runtime~main.js.map": "/circleci-react/static/js/runtime~main.408d7f34.js.map",
+  "static/js/2.948d4d77.chunk.js": "/circleci-react/static/js/2.948d4d77.chunk.js",
+  "static/js/2.948d4d77.chunk.js.map": "/circleci-react/static/js/2.948d4d77.chunk.js.map",
+  "index.html": "/circleci-react/index.html",
+  "precache-manifest.03c7dd03189f77d0b713359f65bffd3d.js": "/circleci-react/precache-manifest.03c7dd03189f77d0b713359f65bffd3d.js",
+  "service-worker.js": "/circleci-react/service-worker.js",
+  "static/css/main.18393e78.chunk.css.map": "/circleci-react/static/css/main.18393e78.chunk.css.map",
+  "static/media/logo.svg": "/circleci-react/static/media/logo.5d5d9eef.svg"
 }
