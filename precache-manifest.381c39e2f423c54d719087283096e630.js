@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "412d1f9ee1c568a5d84c",
-    "url": "/circleci-react/static/css/main.18393e78.chunk.css"
+    "revision": "3c53846e1c82cbfe8d6c",
+    "url": "/circleci-react/static/css/main.9d590b6e.chunk.css"
   },
   {
-    "revision": "412d1f9ee1c568a5d84c",
+    "revision": "3c53846e1c82cbfe8d6c",
     "url": "/circleci-react/static/js/main.1eeed7a8.chunk.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/circleci-react/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "b8380cd4c8b2ae6f178da8aa2cf9a17b",
+    "revision": "1814d96c7d5df7948b23a0f3da3338fc",
     "url": "/circleci-react/index.html"
   }
 ];
